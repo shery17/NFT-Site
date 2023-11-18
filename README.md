@@ -1,3 +1,3 @@
 # NFT-Site
-Front-End GUI Mobile-First Web-Design
+Front-End GUI Mobile-First Responsive Web-Design
 (Unfinished / Work in progress)
