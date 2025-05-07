@@ -1,5 +1,5 @@
 # NFT-Site
 Front-End GUI Mobile-First Responsive Web-Design
-(Unfinished / Work in progress)
+Hard-coded using HTML and CSS.
 
-See live website here: https://splendid-bunny-24689d.netlify.app/
+See live website here: https://visionary-gumdrop-66aefe.netlify.app/
